@@ -39,25 +39,9 @@ Run the prediction script:
 ```bash
 python3 prediction1.py
 ```
-Expected output:
-```
-🏁 Predicted 2025 Australian GP Winner 🏁
-Driver: Charles Leclerc, Predicted Race Time: 82.67s
-...
-🔍 Model Error (MAE): 3.22 seconds
-```
 
 ## 📈 Model Performance
 The Mean Absolute Error (MAE) is used to evaluate how well the model predicts race times. Lower MAE values indicate more accurate predictions.
-
-## 📌 Future Improvements
-- Incorporate **weather conditions** as a feature
-- Add **pit stop strategies** into the model
-- Explore **deep learning** models for improved accuracy
-- @mar_antaya on Instagram and TikTok will update with the latest predictions before every race of the 2025 F1 season
-
-## 📜 License
-This project is licensed under the MIT License.
 
 
 🏎️ **Start predicting F1 races like a data scientist!** 🚀
